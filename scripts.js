@@ -35,7 +35,7 @@ handleScrollReveal(); // Initial call to reveal elements in view
 
 document.querySelectorAll('h2').forEach(splitTextAnimation);
 
-function redirectToProducts() {
+function redirectToAccount() {
     window.location.href = 'account.html';
 }
 
